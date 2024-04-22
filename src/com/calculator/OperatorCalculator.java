@@ -30,6 +30,7 @@ public class OperatorCalculator {
     }
 
 	public static void main(String[] args) {
+		// scanner is used to take input
 		Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the first number: ");
